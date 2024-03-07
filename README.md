@@ -2,9 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and web frameworks
 - 💞️ I’m looking to collaborate on my knowledge to web development based company
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me kanishkabe2003@gmail.com
+
 
 <!---
 kanishka2003/kanishka2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
